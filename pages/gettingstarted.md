@@ -1,4 +1,4 @@
-# Getting Started :100:
+# Getting Started
 ---
 Welcome to our documentation! On the left you will see the categories for everything you can do on our site. Select the item you want and you will be able to read more about it. If there is something you cannot find, please contact our support at [support@mantatrader.com](mailto:support@mantatrader.com)
 
