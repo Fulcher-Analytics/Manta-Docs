@@ -5,12 +5,12 @@ const directory = [
         pages: [
             {
                 name: 'Getting Started',
-                key: '1',
+                key: '1.1',
                 filepath: 'pages/gettingstarted.md'
             },
             {
                 name: 'Building Bots',
-                key: '2',
+                key: '1.2',
                 filepath: 'pages/bots.md'
             }
         ]
@@ -21,7 +21,7 @@ const directory = [
         pages: [
             {
                 name: 'Basic',
-                key: '3',
+                key: '2.1',
                 filepath: 'pages/backtesting.md'
             }
         ]
