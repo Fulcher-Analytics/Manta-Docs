@@ -12,6 +12,11 @@ const directory = [
                 name: 'Building Bots',
                 key: '1.2',
                 filepath: 'pages/bots.md'
+            },
+            {
+                name: 'IFTTT Bots',
+                key: '1.3',
+                filepath: 'pages/ifttt.md'
             }
         ]
     },
