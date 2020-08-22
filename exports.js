@@ -25,6 +25,17 @@ const directory = [
                 filepath: 'pages/backtesting.md'
             }
         ]
+    },
+    {
+        name: 'Algotrading Pro',
+        key: 'sub3',
+        pages: [
+            {
+                name: 'Selling Your Algo',
+                key: '3.1',
+                filepath: 'pages/sellingstrategy.md'
+            }
+        ]
     }
 ];
 
