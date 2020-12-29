@@ -27,10 +27,6 @@ and follow the instructions below.
    strategies such as Dollar Cost Averaging. An example of a Fixed Interval Bot would be one that buys 1 share of the
    S&P 500 index every month.
 
-4. **Prebuilt Bots** - Prebuilt bots are custom built bots that are designed by the Manta Trader Team. Prebuilt bots
-   typically involve more advanced strategies that can involve things like Artificial Intellegence and advanced statistical
-   models.
-
 ---
 
 
