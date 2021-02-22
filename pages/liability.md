@@ -1,4 +1,3 @@
-# Terms of Service 
 
 This document contains the Terms of Service, Liability Agreement, and Privacy Agreement between the Client, that is the end user, and Manta Trader. 
 
