@@ -1,5 +1,10 @@
-# Liability Agreement
+# Terms of Service 
 
+This document contains the Terms of Service, Liability Agreement, and Privacy Agreement between the Client, that is the end user, and Manta Trader. 
+
+
+# Liability Agreement
+---
 ### Introduction & Preface
 This agreement spells out the liability taken on by the Client (the end user of the application) and Manta Trader and is in force for the duration
 of Manta Trader's beta program. When the product officially goes live, this agreement will be void and a new EUA will be sent out to the Client, with 
@@ -15,6 +20,12 @@ risk of errors and bugs that may result in the Client losing money. The Client r
 ### C. Error Handling 
 Your strategy may encounter errors, in which case you will automatically be pushed a notification on your account notifying you of the error,
 as well as the algorithm that caused the error will be set to a status of Not Deployed. 
-## II. Privacy              
-### A. Trading Strategies
-Manta Trader agrees to keep the Client's trading strategies private and will not be sold to third parties directly under any circumstances. 
+
+# Privacy Agreement
+---
+## Intellectual Property
+All strategies developed, researched, and created by the Client are intellectual property of the Client. Manta Trader will not sell or distribute the Client's data directly in any way under any circumstances unless given authorization by the Client 
+## Deletion Policy
+When a user deletes a algorithm or bot, Manta Trader ensures to fully delete the document from any of Manta Trader's servers and databases. 
+## Backtesting 
+Manta Trader promises not to record the results of any back tests ran by users. 
