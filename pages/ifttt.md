@@ -3,6 +3,8 @@
 IFTTT is a beginner friendly way to build bots that follow a sequential execution pattern. There are 2 main things to get familiar with: 
 
 * **IF** statements (Triggers) - When to do
+  * You can have an **OR IF** or an **AND IF** to take into account previous conditions 
+  * Using a Technical Indicator is a type of **IF** statement
 * **THEN** statements (Actions) - What to do 
 
 Let's say for example you want to buy TSLA stock after the stock was gapping down and also had a higher than average volume, in other words, you expect the price to rise up again given the higher than usual activity. In that case all you need to do is add 2 **IF**s and 1 **THEN** as such:
