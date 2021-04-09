@@ -6,8 +6,11 @@
   - Building A Basic Bot 
   - Building A Bot Using Technical Indicators  
 - Back Testing Strategies 
+  - [Back Testing Sentiment Analysis](https://github.com/Manta-AI/Manta-Docs/blob/master/pages/sentiment.md)
 - Live Paper Trading 
 - Deploying To Your Broker
+- Legal Information 
+  - [Liability and Beta Testing Agreement](https://github.com/Manta-AI/Manta-Docs/blob/master/pages/liability.md)
 
 
 ### Description
