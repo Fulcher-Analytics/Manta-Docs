@@ -5,7 +5,7 @@
   - Editor Overview
   - Building A Basic Bot 
   - Building A Bot Using Technical Indicators  
-- Back Testing Strategies 
+- [Back Testing Strategies](https://github.com/Manta-AI/Manta-Docs/blob/master/pages/backtesting.md)
   - [Back Testing Sentiment Analysis](https://github.com/Manta-AI/Manta-Docs/blob/master/pages/sentiment.md)
 - Live Paper Trading 
 - Deploying To Your Broker
