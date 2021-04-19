@@ -1,9 +1,7 @@
 # Manta Trader Documentation
 
 ### Contents 
-- Building Stragies  
-  - Editor Overview
-  - Building A Basic Bot 
+- [Building Stragies](https://github.com/Manta-AI/Manta-Docs/blob/master/pages/editor.md)  
   - Building A Bot Using Technical Indicators  
 - [Back Testing Strategies](https://github.com/Manta-AI/Manta-Docs/blob/master/pages/backtesting.md)
   - [Back Testing Sentiment Analysis](https://github.com/Manta-AI/Manta-Docs/blob/master/pages/sentiment.md)
