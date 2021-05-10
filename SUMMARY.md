@@ -2,8 +2,8 @@
 
 * [Manta Trader Documentation](README.md)
 * [Getting Started](gettingstarted.md)
-* [Back testing Sentiment Analysis](sentiment.md)
-* [Backtesting](backtesting.md)
+* [Backtesting](backtesting/README.md)
+  * [Back testing Sentiment Analysis](backtesting/sentiment.md)
 * [Selling Your Algotrading Strategy](sellingstrategy.md)
 * [Building Bots](editor.md)
 * [Bot Building](bots.md)
