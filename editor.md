@@ -1,6 +1,6 @@
 # Building Bots
 
-**!! This guide is not financial advice and is for educational purposes only !!**
+**⚠️ This guide is not financial advice and is for educational purposes only ⚠️**
 
 Let's take a brief moment to go over the Manta Trader Bot Building Editor. Below is the most basic view you will see when you press _New Bot_ from the dashboard menu: ![editor](https://github.com/Manta-AI/Manta-Docs/raw/master/src/imgs/editor.png)
 
